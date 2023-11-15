@@ -4,7 +4,7 @@
 <br>
 En el blog anterior se mencionó que una de las tantas cosas que se puede hacer en la terminal es administrar los archivos. En este blog veremos cómo crear, modificar y eliminar archivos. También veremos cómo movernos dentro del sistema de archivos.
 
-<center>En una sesión de terminal, la shell siempre estará apuntando a un determinado directorio del sistema de archivos. De esta manera es que podemos movernos entre directorios y revisar el contenido de cada uno. Al abrir una sesión de terminal, bash se iniciará apuntando al directorio `/home/$USER`, donde `$USER` es el nombre del usuario.</center>
+En una sesión de terminal, la shell siempre estará apuntando a un determinado directorio del sistema de archivos. De esta manera es que podemos movernos entre directorios y revisar el contenido de cada uno. Al abrir una sesión de terminal, bash se iniciará apuntando al directorio `/home/$USER`, donde `$USER` es el nombre del usuario.
 
 En el caso de que se use termux, el directorio al que apunta al iniciar es `/data/data/com.termux/files/home`
 
@@ -14,7 +14,7 @@ El primer comando de navegación que se mostrará es `pwd`. `pwd` es un comando 
 
 ## Ruta absoluta
 
-<center>Cuando haya que moverse entre directorios, habrá que especificar una ruta a la cuál moverse. Una ruta es una ubicación, un punto en el sistema de archivos. Hay dos tipos de rutas, uno de ellos es el tipo de ruta absoluta.</center>
+Cuando haya que moverse entre directorios, habrá que especificar una ruta a la cuál moverse. Una ruta es una ubicación, un punto en el sistema de archivos. Hay dos tipos de rutas, uno de ellos es el tipo de ruta absoluta.
 
 La ruta absoluta de un directorio implica especificar todo el recorrido desde el directorio raíz `/` hasta este. Por ejemplo, si miramos la imagen anterior, la ruta absoluta del directorio darth es `/home/darth`. Para ilustrarlo de otra forma:
 
