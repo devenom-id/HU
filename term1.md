@@ -42,7 +42,9 @@ o el comando:
 printf "Hola mundo\n"
 ```
 
-<center>![img](/media/term1_1.jpg)</center>
+<center>
+![img](/media/term1_1.jpg)
+</center>
 
 La sintaxis de estos comandos es la siguiente:
 
