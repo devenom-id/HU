@@ -172,6 +172,6 @@ Sin nada más que añadir, he tenido la gran suerte de poder enseñaros gran par
 
 <center><b>¡Adiós!</b></center>
 
-*MIUI = Mi UI (Mi capa de personalización)*
+*MIUI = Mi UI (Mi capa de personalización)<br>*
 *By Xiaomi*
 
