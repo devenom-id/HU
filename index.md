@@ -13,7 +13,7 @@ Bienvenido a Hacking-Utils.
 - [Term8](term8.md)
 
 ## Blogs de Tori
-- [eGPU ¿Que son realmente?](eGPU-¿Que-son-realmente%3F.md)
-- [Ray Tracing ¿Qué es?](Ray-Tracing-¿Que-es%3F.md)
+- [eGPU ¿Que son realmente?](eGPU-¿Que-son-realmente%3F.html)
+- [Ray Tracing ¿Qué es?](Ray-Tracing-¿Que-es%3F.html)
 - [Opera GX](Opera-GX.md)
 - [MIUI 12](MIUI-12.md)
