@@ -4,13 +4,13 @@
 <br>
 *Finalmente, la tan esperada guía sobre la terminal se hace presente. Si deseas aprender a dominar la terminal desde 0 y no tienes ningún conocimiento previo relacionado al tema, te recomiendo que leas los primeros dos blogs sobre Unix, alternativamente puedes leer el tercero y el cuarto que explican como funciona una terminal, el conocimiento nunca sobra.*
 
-<center><a href=”http://aminoapps.com/p/1p1s72”>UNIX::Introducción</a></center>
+- [UNIX::Introducción](http://aminoapps.com/p/1p1s72)
 
-<center><a href=”http://aminoapps.com/p/acjg6k”>UNIX::Árbol de directorios</a></center>
+- [UNIX::Árbol de Directorios](http://aminoapps.com/p/acjg6k)
 
-<center><a href=”http://aminoapps.com/p/13sczv”>UNIX::Subsistema de TTY</a></center>
+- [UNIX::Subsistema de TTY](http://aminoapps.com/p/13sczv)
 
-<center><a href=”http://aminoapps.com/p/pmqzivz”>UNIX::Subsistema de TTY #2</a></center>
+- [UNIX::Subsistema de TTY #2](http://aminoapps.com/p/pmqzivz)
 
 Con el presente se inaugura la serie de blogs sobre el manejo de la terminal. Esta guía es sobre el intérprete de comandos Bash, este intérprete está disponible en sistemas GNU/Linux, MacOS y Android. Por defecto, Android usa Sh. Para usar Bash hay que descargar el emulador Termux. Termux fue cubierto en un blog anterior, además de ser un emulador de terminal consigue adaptar software de Debian para poder emular un comportamiento similar a esta distro GNU/Linux y así poder correr programas de la misma.
 
