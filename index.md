@@ -13,6 +13,7 @@ Bienvenido a Hacking-Utils.
 - [Bash::Manejando la Terminal - De 0 a 1000 #8](term8.md)
 - [Linux, ¿Qué es? ¿Por qué es tan importante saberlo?](linux1.md)
 - [Diferencia entre Linux y GNU/Linux](linux2.md)
+- [Cuál Distro de GNU/Linux elegir y por qué](linux3.md)
 
 ## Blogs de Tori
 - [eGPU ¿Que son realmente?](eGPU-¿Que-son-realmente%3F.html)
