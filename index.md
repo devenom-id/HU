@@ -13,4 +13,4 @@ Bienvenido a Hacking-Utils.
 - [Term8](term8.md)
 
 ## Blogs de Tori
-- [eGPU ¿Que son realmente?](eGPU-¿Que-son-realmente?.md)
+- [eGPU ¿Que son realmente?](eGPU-¿Que-son-realmente\?.md)
