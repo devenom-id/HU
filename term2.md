@@ -20,7 +20,7 @@ La ruta absoluta de un directorio implica especificar todo el recorrido desde el
 
 ![img](media/term2_2.jpg)
 
-[C]Cuando se especifica una ruta absoluta hay que tener en cuenta que el caracter "/" sólo se puede referir al directorio raíz cuando va al principio de la ruta, después se lo usa para especificar un directorio u otro tipo de archivo dentro de otro directorio.
+Cuando se especifica una ruta absoluta hay que tener en cuenta que el caracter "/" sólo se puede referir al directorio raíz cuando va al principio de la ruta, después se lo usa para especificar un directorio u otro tipo de archivo dentro de otro directorio.
 
 En `/home/darth`, el primer / hace referencia al directorio raíz, el segundo / entre home y darth indica que dentro de home está darth.
 
