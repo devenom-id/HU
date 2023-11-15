@@ -11,6 +11,7 @@ Bienvenido a Hacking-Utils.
 - [Bash::Manejando la Terminal - De 0 a 1000 #6](term6.md)
 - [Bash::Manejando la Terminal - De 0 a 1000 #7](term7.md)
 - [Bash::Manejando la Terminal - De 0 a 1000 #8](term8.md)
+- [Linux, ¿Qué es? ¿Por qué es tan importante saberlo?](linux1.md)
 
 ## Blogs de Tori
 - [eGPU ¿Que son realmente?](eGPU-¿Que-son-realmente%3F.html)
