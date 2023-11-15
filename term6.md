@@ -17,11 +17,11 @@ En bash, las dos comillas representan un string, pero tienen una diferencia que 
 
 Si tenemos la variable `$VAR` que contiene el string `"mundo"` e intentamos imprimirla con los dos tipos de comillas en cada caso producirá las siguientes salidas:
 
-Comando: `echo "Hola $VAR"`
-Salida: `Hola mundo`
+Comando: `echo "Hola $VAR"`<br>
+Salida: `Hola mundo`<br>
 
-Comando: `echo 'Hola $VAR'`
-Salida: `Hola $VAR`
+Comando: `echo 'Hola $VAR'`<br>
+Salida: `Hola $VAR`<br>
 
 <center>*Saber la diferencia entre ambas es parte de aprender el lenguaje.*</center>
 <br>
