@@ -67,8 +67,7 @@ Respuesta corta: Todo lo que no implique obligatoriamente un componente gráfico
 Ampliando a lo anterior, podemos revisar el espacio disponible en el disco, ver, crear y eliminar archivos, descargar música, juegos, aplicaciones y utilidades, escuchar música e interactuar con el hardware haciendo cosas como abrir la bandeja del lector de discos o ajustar el brillo de la pantalla. Incluso se puede navegar por internet, ¡y hasta usar Discord!
 
 Hasta ahora vimos operaciones de entrada y salida de forma básica y como introducción a esta serie de blogs. En el siguiente blog veremos cómo navegar entre los directorios y gestionar los archivos.
-
-<center>◣◥◣◥◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢</center>
-
-<center>*El post ha llegado a su fin. Si tienes dudas puedes comentarlas aquí o en cualquier chat de esta gran comunidad.*</center>
+<br>
+<hr>
+*El post ha llegado a su fin. Si tienes dudas puedes contactarme en Discord. Soy venom_instantdeath.*
 
