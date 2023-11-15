@@ -14,7 +14,7 @@ En Bash existen 4 prompts que aparecen en situaciones diferentes, y los cuatro s
 <center><b>¡Se pueden usar escapes ANSI!</b></center>
 <center>Lo que significa que se puede colorear el prompt.</center>
 <br>
-Si no sabes lo que son los escapes ANSI pero te interesó lo de colorear el prompt, puedes aprenderlo en el siguiente artículo: http://aminoapps.com/p/1smfwg
+Si no sabes lo que son los escapes ANSI pero te interesó lo de colorear el prompt, puedes aprenderlo en el siguiente artículo: <a href="http://aminoapps.com/p/1smfwg"></a>
 
 A continuación se explicará en qué situaciones aparecen cada una de las 4 variables dedicadas al prompting.
 
