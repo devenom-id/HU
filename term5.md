@@ -1,5 +1,5 @@
-# Bash::Manejando la Terminal - De 0 a 1000 #3
-<b>By: Darth Venom - 18/12/2020</b>
+# Bash::Manejando la Terminal - De 0 a 1000 #5
+<b>By: Darth Venom - 24/3/2021</b>
 <br>
 <br>
 *En este capítulo hablaremos acerca de dos cosas, alias y variables. Son similares pero se usan para distintas cosas bastante específicas.*
