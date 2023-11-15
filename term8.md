@@ -13,7 +13,7 @@ Este capítulo es más sobre personalización que otra cosa. Este capítulo va d
 En Bash existen 4 prompts que aparecen en situaciones diferentes, y los cuatro son personalizables. El modo mediante el cual se configuran los prompts en bash es a través de strings en variables globales. Estas variables son `PS1`, `PS2`, `PS3` y `PS4`, y los strings para el prompt pueden usar secuencias especiales de bash para obtener cosas como el nombre del usuario, el nombre del host, el directorio actual, etc; cosas que se pueden usar para decorar el prompt. A parte de estas secuencias especiales...
 <center><b>¡Se pueden usar escapes ANSI!</b></center>
 <center>Lo que significa que se puede colorear el prompt.</center>
-
+<br>
 Si no sabes lo que son los escapes ANSI pero te interesó lo de colorear el prompt, puedes aprenderlo en el siguiente artículo: http://aminoapps.com/p/1smfwg
 
 A continuación se explicará en qué situaciones aparecen cada una de las 4 variables dedicadas al prompting.
@@ -45,32 +45,31 @@ Ejemplo 3: `{usuario}~$`
 
 En estos ejemplos se ve que los strings tienen un formato especial, estas son las secuencias especiales de las que se habló antes, hay varias y serán listadas a continuación.
 
-\a     Caracter ASCII de campana
-\d     Fecha actual en formato "Día Mes Fecha" (Ejemplo: Marte Junio 16)
-\D{formato} El formato se pasa a la función strftime() de C (<time.h>) y se imprime el resultado
-\e     Equivalente a \033
-\h     Nombre del host hasta el primer '.'
-\H     El nombre del host
-\j     Número de tareas (jobs) administradas por la shell
-\l     Nombre del archivo de terminal asociado a la shell actual
-\n     Nueva línea
-\r     Retorno de carril
-\s     Nombre de la shell
-\t     Tiempo actual en formato 24 horas HH:MM:SS
-\T     Tiempo actual en formato 12 horas HH:MM:SS
-\@     Tiempo actual en formato 12 horas am/pm
-\A     Tiempo actual en formato 24 horas HH:MM
-\u     Nombre de usuario
-\v     Versión de Bash
-\V     Versión + patch level
-\w     Directorio actual ($HOME se abrevia con ~)
-\!     Número del comando
-\#     Número del comando en el historial
-\$     Si el UID es 0, es un #, sino es un $
-\\     Barra invertida
-\[     Inicio de secuencia de escape ANSI
-\]     Fin de secuencias de escape ANSI
-
+\a     Caracter ASCII de campana<br>
+\d     Fecha actual en formato "Día Mes Fecha" (Ejemplo: Marte Junio 16)<br>
+\D{formato} El formato se pasa a la función strftime() de C (<time.h>) y se imprime el resultado<br>
+\e     Equivalente a \033<br>
+\h     Nombre del host hasta el primer '.'<br>
+\H     El nombre del host<br>
+\j     Número de tareas (jobs) administradas por la shell<br>
+\l     Nombre del archivo de terminal asociado a la shell actual<br>
+\n     Nueva línea<br>
+\r     Retorno de carril<br>
+\s     Nombre de la shell<br>
+\t     Tiempo actual en formato 24 horas HH:MM:SS<br>
+\T     Tiempo actual en formato 12 horas HH:MM:SS<br>
+\@     Tiempo actual en formato 12 horas am/pm<br>
+\A     Tiempo actual en formato 24 horas HH:MM<br>
+\u     Nombre de usuario<br>
+\v     Versión de Bash<br>
+\V     Versión + patch level<br>
+\w     Directorio actual ($HOME se abrevia con ~)<br>
+\!     Número del comando<br>
+\#     Número del comando en el historial<br>
+\$     Si el UID es 0, es un #, sino es un $<br>
+\\     Barra invertida<br>
+\[     Inicio de secuencia de escape ANSI<br>
+\]     Fin de secuencias de escape ANSI<br>
 <br>
 <hr>
 *El blog ha llegado a su fin. Si tienes dudas puedes contactarme en Discord. Soy venom_instantdeath.*
