@@ -8,3 +8,5 @@ Bienvenido a Hacking-Utils.
 - [Term4](term4.md)
 - [Term5](term5.md)
 - [Term6](term6.md)
+- [Term7](term7.md)
+- [Term8](term8.md)
