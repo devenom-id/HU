@@ -2,6 +2,7 @@
 
 Bienvenido a Hacking-Utils.
 
+## Mis blogs
 - [Term1](term1.md)
 - [Term2](term2.md)
 - [Term3](term3.md)
@@ -10,3 +11,6 @@ Bienvenido a Hacking-Utils.
 - [Term6](term6.md)
 - [Term7](term7.md)
 - [Term8](term8.md)
+
+## Blogs de Tori
+- [eGPU ¿Que son realmente?](eGPU-¿Que-son-realmente?.md)
