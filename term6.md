@@ -4,8 +4,8 @@
 <br>
 *Este será un corto capítulo explicando la diferencia entre usar strings de comillas dobles y strings de comillas simples en bash. A simple vista podría parecer un tema no muy relevante pero lo es, sobre todo a la hora de crear scripts o usar variables dentro de un sólo string.*
 
-*Las comillas dobles son estas: " "*
-*Las comillas simples son estas: ' '*
+*Las comillas dobles son estas: " "<br>*
+*Las comillas simples son estas: ' '*<br>
 
 El significado de estos símbolos varía entre un lenguaje y otro. En lenguajes como Python, las comillas dobles o simples representan lo mismo: un string; no hay diferencia. En cambio, en lenguajes como C y C++, las comillas dobles se usan para representar un string mientras que las comillas simples se usan para representar un caracter.
 
