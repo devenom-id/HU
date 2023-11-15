@@ -11,9 +11,9 @@ El significado de estos símbolos varía entre un lenguaje y otro. En lenguajes 
 
 En bash, las dos comillas representan un string, pero tienen una diferencia que si se desconoce puede traer errores difíciles de depurar.
 
-<center>*Las comillas dobles representan string comunes. Cadenas de caracteres, igual que en cualquier lenguaje.*</center>
+*Las comillas dobles representan string comunes. Cadenas de caracteres, igual que en cualquier lenguaje.*
 
-<center>*Las comillas simples son strings literales, es decir, si intentas formatear el string con variables o con símbolos que tengan un significado especial para bash, estos serán ignorados y se imprimirán literalmente.*</center>
+*Las comillas simples son strings literales, es decir, si intentas formatear el string con variables o con símbolos que tengan un significado especial para bash, estos serán ignorados y se imprimirán literalmente.*
 
 Si tenemos la variable `$VAR` que contiene el string `"mundo"` e intentamos imprimirla con los dos tipos de comillas en cada caso producirá las siguientes salidas:
 
@@ -23,7 +23,7 @@ Salida: `Hola mundo`<br>
 Comando: `echo 'Hola $VAR'`<br>
 Salida: `Hola $VAR`<br>
 
-<center>*Saber la diferencia entre ambas es parte de aprender el lenguaje.*</center>
+*Saber la diferencia entre ambas es parte de aprender el lenguaje.*
 <br>
 <hr>
 *El blog ha llegado a su fin. Si tienes dudas puedes contactarme en Discord. Soy venom_instantdeath.*
