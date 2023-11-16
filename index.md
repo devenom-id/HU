@@ -1,4 +1,4 @@
-<center><b>¡Bienvenido a Hacking-Utils!</b></center>
+# ¡Bienvenido a Hacking-Utils!
 <br>
 Este es el sitio oficial de HU. Aquí se publican articulos sobre programación, redes, sistemas, y software. Los posts están ordenados en el índice para que sea sencillo encontrar lo que se esté buscando.
 
