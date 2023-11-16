@@ -1,7 +1,7 @@
 # ¡Bienvenido a Hacking-Utils!
 <br>
 Este es el sitio oficial de HU. Aquí se publican articulos sobre programación, redes, sistemas, y software. Los posts están ordenados en el índice para que sea sencillo encontrar lo que se esté buscando.<br>
-Entre los articulos que se encuentran aquí, por el momento la mayoría fueron resubidos de la vieja comunidad de HU en Amino. En cuanto a las guías en el índice, las guías antiguas rescatadas de Amino serán distinguidas con la palabra *'Old'*.
+Entre los articulos que se encuentran aquí, por el momento la mayoría fueron resubidos de la vieja comunidad de HU en Amino. En cuanto a las guías en el índice, las guías antiguas rescatadas de Amino o los articulos cuya información haya quedado desactualizada por el tiempo serán distinguidos con la palabra *'Old'*.
 
 ## Guía de uso de la terminal en GNU/Linux (Old)
 - [Operaciones de entrada y salida](term1.html)
