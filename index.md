@@ -3,7 +3,7 @@
 Este es el sitio oficial de HU. Aquí se publican articulos sobre programación, redes, sistemas, y software. Los posts están ordenados en el índice para que sea sencillo encontrar lo que se esté buscando.<br>
 Entre los articulos que se encuentran aquí, por el momento la mayoría fueron resubidos de la vieja comunidad de HU en Amino. En cuanto a las guías en el índice, las guías antiguas rescatadas de Amino serán distinguidas con la palabra *'Old'*.
 
-## Guía de la terminal en GNU/Linux (Old)
+## Guía de uso de la terminal en GNU/Linux (Old)
 - [Operaciones de entrada y salida](term1.html)
 - [Gestión de archivos](term2.html)
 - [Gestión de paquetes](term3.html)
