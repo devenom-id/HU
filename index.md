@@ -1,6 +1,6 @@
-# Índice
-
-Bienvenido a Hacking-Utils.
+<center><b>¡Bienvenido a Hacking-Utils!</b></center>
+<br>
+Este es el sitio oficial de HU. Aquí se publican articulos sobre programación, redes, sistemas, y software. Los posts están ordenados en el índice para que sea sencillo encontrar lo que se esté buscando.
 
 ## Mis blogs
 - [Bash::Manejando la Terminal - De 0 a 1000 #1](term1.html)
