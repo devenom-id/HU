@@ -16,10 +16,10 @@ Vim tiene varios modos en los que se pueden realizar acciones diferentes. Lo pri
 
 Cuando se inicia vim, por defecto se encuentra en el modo Normal. En este modo el usuario puede moverse a través del texto pero no escribirlo. En Normal como las teclas no se usan para escribir, cada una puede tener un significado diferente. Para moverse por el texto se pueden usar las flechas del teclado como normalmente se haría con cualquier editor o también se puede usar:
 
-	`h` Para mover a la izquierda
-	`j` Para mover abajo
-	`k` Para mover arriba
-	`l` Para mover a la derecha
+`h` Para mover a la izquierda
+`j` Para mover abajo
+`k` Para mover arriba
+`l` Para mover a la derecha
 
 *Lo primero será aprender las teclas disponibles en Normal. Hay varias:*
 
