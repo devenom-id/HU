@@ -8,9 +8,9 @@ Si eres alguien que usa distribuciones GNU/Linux minimalistas como Arch, Gentoo 
 
 Para ver fotos desde la TTY se puede usar el programa `fbi` (Framebuffer Imageviewer). A continuación se muestran los nombres que este paquete tiene en distintas distros.
 
-**GENTOO:** media-gfx/fbida
-**ARCH, FEDORA, SLACKWARE:** fbida
-**DEBIAN, OPENSUSE:** fbi
+**GENTOO:** media-gfx/fbida<br>
+**ARCH, FEDORA, SLACKWARE:** fbida<br>
+**DEBIAN, OPENSUSE:** fbi<br>
 
 Este programa puede usarse fácilmente de la siguiente forma:
 ```
@@ -26,8 +26,8 @@ Si por alguna razón deseas visualizar un video y no deseas iniciar toda la inte
 
 A continuación se muestran los nombres que este paquete tiene en distintas distros.
 
-**GENTOO:** media-video/vlc
-**ARCH, DEBIAN, OPENSUSE, FEDORA, SLACKWARE:** vlc
+**GENTOO:** media-video/vlc<br>
+**ARCH, DEBIAN, OPENSUSE, FEDORA, SLACKWARE:** vlc<br>
 
 Este programa puede usarse fácilmente de la siguiente forma:
 ```
