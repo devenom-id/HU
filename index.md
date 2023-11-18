@@ -20,6 +20,9 @@ Entre los articulos que se encuentran aquí, por el momento la mayoría fueron r
 - [Diferencia entre Linux y GNU/Linux](linux2.html)
 - [Cuál Distro de GNU/Linux elegir y por qué (Old)](linux3.html)
 
+## Vim
+- [Modos del editor, escribir, abrir y guardar](vim1.html)
+
 ## Software
 - [Opera GX](Opera-GX.html)
 - [MIUI 12](MIUI-12.html)
