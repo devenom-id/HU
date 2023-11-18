@@ -27,6 +27,7 @@ Entre los articulos que se encuentran aquí, por el momento la mayoría fueron r
 ## Software
 - [Opera GX](Opera-GX.html)
 - [MIUI 12](MIUI-12.html)
+- [Cmus (C Music Player)](cmus.md)
 
 ## Hardware
 - [eGPU ¿Que son realmente?](eGPU-¿Que-son-realmente%3F.html)
