@@ -45,7 +45,7 @@ Una vez que el pendrive fue escrito, ya está listo para usarse como medio de in
 
 Para escribir una imagen de instalación en un pendrive en GNU/Linux se usa el comando `dd`.<br>
 
-*Para empezar, si leyó el [blog del sistema de archivos Unix|http://aminoapps.com/p/acjg6k], todo se trata como un archivo en GNU/Linux, incluso un pendrive y sus particiones. Lo más recomendable antes de empezar es chequear cuál es el nombre del archivo referente al pendrive que se usará, para esto se usa el comando `lsblk`.*
+*Para empezar, si leyó el [blog del sistema de archivos Unix](http://aminoapps.com/p/acjg6k), todo se trata como un archivo en GNU/Linux, incluso un pendrive y sus particiones. Lo más recomendable antes de empezar es chequear cuál es el nombre del archivo referente al pendrive que se usará, para esto se usa el comando `lsblk`.*
 
 ![img](media/c45.jpg)
 
