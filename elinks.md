@@ -20,20 +20,20 @@ Aún viendo las contras, muchos usuarios que no acostumbran a usar componentes g
 
 ## ATAJOS DEL TECLADO
 
-`h`       Historial
-`?`       Buscar
-`\`       Ver HTML (Inspeccionar)
-`.`       Numerar links
-`t`       Abrir pestaña
-`<`       Mover a pestaña anterior
-`>`       Mover a pestaña siguiente
-`c`       Cerrar pestaña
-`d`       Descargar link
-`A`       Añadir marcador
-`s`       Marcadores
-`g`       Ir a URL
-`ESC`     Mostrar barra superior
-`CTRL+R`  Recargar página
+`h`       Historial<br>
+`?`       Buscar<br>
+`\`       Ver HTML (Inspeccionar)<br>
+`.`       Numerar links<br>
+`t`       Abrir pestaña<br>
+`<`       Mover a pestaña anterior<br>
+`>`       Mover a pestaña siguiente<br>
+`c`       Cerrar pestaña<br>
+`d`       Descargar link<br>
+`A`       Añadir marcador<br>
+`s`       Marcadores<br>
+`g`       Ir a URL<br>
+`ESC`     Mostrar barra superior<br>
+`CTRL+R`  Recargar página<br>
 
 ## CONTROLES BÁSICOS
 
