@@ -31,6 +31,8 @@ Entre los articulos que se encuentran aquí, por el momento la mayoría fueron r
 - [Opera GX](Opera-GX.html)
 - [MIUI 12](MIUI-12.html)
 - [Cmus (C Music Player)](cmus.md)
+- [Elinks - Google desde la terminal](elinks.md)
+- [Ver Imagenes y videos en la TTY](mediatty.html)
 
 ## Hardware
 - [eGPU ¿Que son realmente?](eGPU-¿Que-son-realmente%3F.html)
