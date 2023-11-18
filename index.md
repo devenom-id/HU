@@ -19,6 +19,7 @@ Entre los articulos que se encuentran aquí, por el momento la mayoría fueron r
 - [Linux, ¿Qué es? ¿Por qué es tan importante saberlo?](linux1.html)
 - [Diferencia entre Linux y GNU/Linux](linux2.html)
 - [Cuál Distro de GNU/Linux elegir y por qué (Old)](linux3.html)
+- [GNU/Linux - Introducción](linux4.html)
 
 ## Vim
 - [Modos del editor, escribir, abrir y guardar](vim1.html)
