@@ -29,7 +29,7 @@ Esto está dirigido a los usuarios nuevos que tienen curiosidad acerca de todo l
 - Invoca aplicaciones de GNU/Linux en Windows.
 - Ejecución de aplicaciones gráficas GNU/Linux que están integradas directamente en el escritorio de Windows
 
-## Ahora veremos como activarlo
+## ¿Cómo activarlo?
 Primero deberemos buscar "Características de Windows", esto lo podremos hacer presionando la tecla de Windows o dirigiéndonos a la barra de búsqueda directamente.
 
 ![Menu de busqueda Windows 10](media/c56.jpg)
