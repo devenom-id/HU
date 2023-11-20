@@ -39,4 +39,4 @@ Entre los articulos que se encuentran aquí, por el momento la mayoría fueron r
 
 ## Sin clasificar
 - [Ray Tracing ¿Qué es?](Ray-Tracing-¿Que-es%3F.html)
-- [WSL en Windows 10](wsl1.html)
+- [WSL en Windows 10 (Old)](wsl1.html)
