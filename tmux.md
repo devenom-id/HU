@@ -44,4 +44,5 @@ Los atajos constan de `CTRL+B` y una letra. Algunos atajos son los siguientes:
 
 *Sabiendo eso ya podrás moverte con comodidad en tmux.*<br>
 <br>
+<hr>
 *El post ha llegado a su fin. Si tienes dudas puedes contactarme en Discord. Soy venom_instantdeath.*
