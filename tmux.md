@@ -24,23 +24,23 @@ Los atajos constan de `CTRL+B` y una letra. Algunos atajos son los siguientes:
 
 ### Control de ventanas
 
-`c` = crear una nueva ventana
-`w` = listar ventanas
-`n` = siguiente ventana
-`p` = ventana previa
-`,` = renombrar ventana
-`&` = eliminar ventana
+`c` = crear una nueva ventana<br>
+`w` = listar ventanas<br>
+`n` = siguiente ventana<br>
+`p` = ventana previa<br>
+`,` = renombrar ventana<br>
+`&` = eliminar ventana<br>
 
 ### Control de paneles (Divisiones)
 
-`%` = division vertical
-`"` = division horizontal
-`q` = mostrar numero de paneles
-`x` = eliminar panel
-`flecha derecha` = mover hacia un panel a la derecha
-`flecha izquierda` = mover hacia un panel a la izquierda
-`flecha arriba` = mover hacia un panel arriba
-`flecha abajo` = mover hacia un panel abajo
+`%` = division vertical<br>
+`"` = division horizontal<br>
+`q` = mostrar numero de paneles<br>
+`x` = eliminar panel<br>
+`flecha derecha` = mover hacia un panel a la derecha<br>
+`flecha izquierda` = mover hacia un panel a la izquierda<br>
+`flecha arriba` = mover hacia un panel arriba<br>
+`flecha abajo` = mover hacia un panel abajo<br>
 
 *Sabiendo eso ya podrás moverte con comodidad en tmux.*
 <br>
