@@ -2,7 +2,6 @@
 <b>By: Darth Venom - 31/10/2020</b>
 <br>
 <br>
-
 *En el anterior blog sobre el subsistema de TTYs de Unix se explicó qué era una TTY, cómo funcionaba y cómo son ahora.*
 
 [Subsistema de TTY #1](unix3.md)
