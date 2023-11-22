@@ -33,6 +33,7 @@ Entre los articulos que se encuentran aquí, por el momento la mayoría fueron r
 - [Cmus (C Music Player)](cmus.md)
 - [Elinks - Google desde la terminal](elinks.md)
 - [Ver Imagenes y videos en la TTY](mediatty.html)
+- [Instalar y usar tmux](tmux.md)
 
 ## Hardware
 - [eGPU ¿Que son realmente?](eGPU-¿Que-son-realmente%3F.html)
