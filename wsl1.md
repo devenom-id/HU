@@ -1,5 +1,5 @@
 # WSL en Windows 10 
-<b>By: [Tony](https://github.com/msh-dv) - 22/01/2021</b>
+<b>By: <a href="https://github.com/msh-dv" target="_blank">Tony</a> - 22/01/2021</b>
 <br>
 <br>
 
