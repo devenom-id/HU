@@ -42,6 +42,6 @@ Los atajos constan de `CTRL+B` y una letra. Algunos atajos son los siguientes:
 `flecha arriba` = mover hacia un panel arriba<br>
 `flecha abajo` = mover hacia un panel abajo<br>
 
-*Sabiendo eso ya podrás moverte con comodidad en tmux.*
+*Sabiendo eso ya podrás moverte con comodidad en tmux.*<br>
 <br>
 *El post ha llegado a su fin. Si tienes dudas puedes contactarme en Discord. Soy venom_instantdeath.*
