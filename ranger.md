@@ -1,16 +1,45 @@
 # Ranger: Administra tus archivos desde la terminal 
-<b>By: <a href="https://github.com/msh-dv" target="_blank">Tony</a> - 22/11/2023</b>
+<b>By: <a href="https://github.com/msh-dv" target="_blank">Tony</a> - 23/11/2023</b>
 <br>
 <br>
 
-Bienvenidos a esta pequeña guía sobre la administración de archivos desde la terminal con ranger.
+Para la mayoría de usuarios usar los comandos `ls` y `cat` para visualizar los archivos y su contenido o `cp` y `mv` para copiarlos, moverlos o renombrarlos es más que suficiente, pero hoy vamos a ver una menera diferente y minimalista de hacerlo con ranger.
 
-A continuación veremos como instalar ranger, su interfaz, como navegar y modificar archivos, su configuración básica, algunos atajos de teclado, entre otras cosas.
+En esta breve guía veremos lo básico como su instalación, interfaz, atajos y configuración.
+
 
 ![Ranger](media/c78.jpg)
 
-## Introducción
+Ranger es un administrador de archivos minimalista basado en texto, escrito en Python y que usa combinaciones de teclas basadas en VI, así que sí estás familiarizado con [Vim](vim1.html) seguramente te resultara sencillo acoplarte a su uso.
+Además de esto cuenta con `rifle` un poderoso lanzador de archivos, cuyo punto fuerte es que puede determinar automáticamente los tipos de archivos y con eso elegir que programa usar para abrirlos, sin necesidad de nuestra interacción. 
 
-Ranger es un administrador de archivos basado en texto que usa combinaciones de teclas basadas en VI, está escrito en Python y proporciona una interfaz minimalista hecha con curses.
+## Instalación
 
+Aquí podrán encontrar varias formas de instalarlo dependiendo de su distribución:
+
+**Arch Linux:** `sudo pacman -Sy ranger`
+
+**Debian / Ubuntu:** `sudo apt install ranger`
+
+**Fedora:** `sudo dnf install ranger`
+
+**Gentoo:** `sudo emerge -U app-misc/ranger`
+
+**PyPI:** `pip install ranger-fm`
+
+Si quieres instalarlo manualmente clonando el repositorio, puedes revisar el proceso [aquí](https://github.com/ranger/ranger#installing)
+
+## Interfaz
+
+La ventana principal muestra de manera predeterminada tres columnas (columnas de Miller):
+
+![Columnas en ranger](media/c.jpg)
+
+- La columna de la izquierda muestra el directorio principal, con el directorio actual resaltado.
+- La columna central muestra el directorio actual.
+- La columna derecha muestra una previsualización del directorio seleccionado o de los archivos seleccionados.
+
+En la parte superior podremos encontrar la ruta del directorio actual y en la parte inferior podremos ver los atributos del archivo actual.
+
+Si ya tienes experiencia con Vim, entonces ya conoces algunas formas de trabajar con ranger, como usar las teclas `hjkl` para moverte entre directrios y archivos, así también comparte algunos modismos con Vim. Por ejemplo: `yy` (copiar), `pp` (pegar), `dd` (cortar). Puedes usar funciones más complejas desde la línea de comandos usando `:` como en Vim.
 
