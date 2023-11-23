@@ -4,7 +4,7 @@
 <br>
 Si leíste los blogs acerca del [Subsistema de TTY](http://aminoapps.com/p/13sczv) sabrás que la primera interacción en tiempo real entre humano y computadora se dio gracias a la creación de los teletipos o TTY físicas. Los teletipos son muy parecidos a las máquinas de escribir, la diferencia es que los teletipos no sirven sólo para escribir y tienen mecanismo mucho más complejos.
 
-![img](media/c78.jpg)
+![img](media/c82.jpg)
 
 La interacción en tiempo real entre humano y máquina se da a través del teletipo, el cual funciona como dispositivo de entrada/salida. Digamos, el dispositivo que se usaba para interactuar con la computadora era el teletipo, pero la forma por la cual se interactuaba era a través de un intérprete de comandos en una sesión de terminal. Sería como usar bash en la laptop, pero en vez de ver la terminal en la pantalla, se ve impresa en un rollo de papel.
 
