@@ -29,6 +29,9 @@ Entre los articulos que se encuentran aquí, por el momento la mayoría fueron r
 - [Árbol de directorios](unix2.html)
 - [Subsistema de TTY](unix3.html)
 - [Subsistema de TTY #2](unix4.html)
+- [Códigos de escape ANSI](unix5.html)
+- [¿Cómo programaban en los teletipos?](unix6.html)
+- [Ver Imagenes y videos en la TTY](unix7.html)
 
 ## Vim
 - [Modos del editor, escribir, abrir y guardar](vim1.html)
