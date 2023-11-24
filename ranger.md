@@ -43,3 +43,31 @@ En la parte superior podremos encontrar la ruta del directorio actual y en la pa
 
 Si ya tienes experiencia con Vim, entonces ya conoces algunas formas de trabajar con ranger, como usar las teclas `hjkl` para moverte entre directrios y archivos, así también comparte algunos modismos con Vim. Por ejemplo: `yy` (copiar), `pp` (pegar), `dd` (cortar). Puedes usar funciones más complejas desde la línea de comandos usando `:` como en Vim.
 
+## Navegando en ranger
+
+Como mencione anteriormente podemos usar las teclas de movmimiento de Vim o las flechas de movimiento:
+```
+    k    --- arriba
+  h   l  --- izquierda o regresar / derecha o entrar
+    j    --- abajo
+```
+La tecla `l` sirve para entrar a directorios, para ejecutar programas, abrir imagenes, etc.
+
+Se puede usar `i` para inspeccionar un archivo, por lo que se pondra en pantalla completa, nos podremos desplazar por el y podemos volver a presionar `i` para salir de la inspección.
+Podemos usar también `q` para salir de la inspección, o para salir de una pestaña activa o para salir del mismo ranger.
+
+## Atajos de teclado y sugerencias
+
+Se pueden hacer muchos comandos utilizando sus atajos de teclado, haciendo uso de las sugerencias.
+Las sugerencias se muestran cada vez que al presionar una tecla hay multiples acciones disponibles como:
+
+`g` para la navegación y pestañas, `r` para el comando `:open_width`, `y` para copiar y `d` para cortar/eliminar.<br> 
+`p` para `paste` (pegar).<br>
+`o` para ordenar.<br>
+`.` para filter_stack.<br>
+`z` para cmabiar ajustes, `u` para deshacer.<br>
+`M` para linemode.<br>
+`+|-|=` para establecer los derechos de acceso a archivos.<br>
+
+Las sugerencias consisten en teclas del lado izquierdo y su comando correspondiente de lado derecho
+
