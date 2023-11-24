@@ -9,10 +9,10 @@ Para utilizar las redes hoy en día, hacemos uso constante de una arquitectura m
 
 Cuando se crearon las primeras computadoras, cada fabricante hacía sus propios protocolos, estándares de conexión, etc. Como era todo cerrado y acoplado al hardware, era imposible o muy difícil conectar dos máquinas entre sí. Esto se debía a que, si tenías un equipos de la compañía *A* y otro de *B*, ambas empresas habían diseñado de manera totalmente aislada la forma en la que se comunicaban sus equipos entre sí. **ESTO ERA UN GRAN PROBLEMA**.
 
-### ¿Por qué era tan grande el problema?
+## ¿Por qué era tan grande el problema?
 Imaginemos que queremos hacer una red de computadoras que conecta las principales universidades de Europa con las de EE.UU. Tendríamos que hacer que todas estas instituciones se pongan de acuerdo en qué tipo de equipos utilizar, qué protocolos se usaría, cómo debería estar formada esta red, etc. Y si teníamos una red de empresas que quería hacer lo mismo, el caso no cambiaría. Aquí vemos que hay un gran problema de complejidad, porque hay un trabajo que no es crucial (la comunicación es lo crucial para las entidades, no tanto el medio) y que demanda muchísimo tiempo y acuerdos para ser implementado.
 
-### ¿Cuál fue la solución?
+## ¿Cuál fue la solución?
 *El **modelo OSI** (Open Systems Interconnection model) propuso dividir la comunicación entre dispositivos en varias capas, en las que cada una encapsularía los datos que le correspondían a la siguiente.* Este modelo tendría que ser adoptado por todas las compañías que quisieran interconectar sus dispositivos. Podríamos hacer una analogía de el problema y la solución.
 
 > Pedro y Pablo han acordado que, para comunicarse, intercambiarán cartas envueltas en un sobre rojo de papel. Estas cartas serán enviadas por correo postal solo los 15 de cada mes.
@@ -35,7 +35,7 @@ Aquí estamos desacoplando la forma de comunicación. Por un lado está el medio
 
 Esta modularidad es la base del modelo OSI y la que nos permite hacer de todo en la red.
 
-### Capa 1
+## Capa 1
 *La primera capa es la física.* Se refiere específicamente al medio que usará para transmitir un mensaje. En la actualidad tenemos diferentes medios:
 - Cable UTP/STP
 - Red inalámbrica de 2.4/5GHz
@@ -45,7 +45,7 @@ Esta modularidad es la base del modelo OSI y la que nos permite hacer de todo en
 - Cable coaxial
 ETC
 
-### Capa 2
+## Capa 2
 La segunda capa es la de enlace. *Permite que los dispositivos sepan qué otros dispositivos están cerca o directamente conectados.* Más específicamente, con quienes están enlazados. Para esto, es utiliza comúnmente la **dirección MAC** (Media Access Control), que no debe confundirse con la marca registrada de Apple. Una **dirección MAC** es una dirección única en el mundo que identifica a cada equipo conectado a una red. No se puede cambiar (pero sí se puede simular), pues se le asigna al equipo en el momento de fabricación.
 
 ## Capa 3
