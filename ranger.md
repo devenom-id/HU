@@ -97,7 +97,7 @@ Si quieres separar algunos directorios a la hora de trabajar, puedes usar la opc
 
 Ranger usa 4 archivos de configuración principales:
 
-- `rc.conf` es utilizando para varias opciones de configuración y atajos de teclado a funciones (más adelante veremos como habilitar la previsualización de imágenes).
+- `rc.conf` es utilizado para varias opciones de configuración y atajos de teclado a funciones (más adelante veremos como habilitar la previsualización de imágenes).
 - `rifle.conf` decide qué programa se utiliza para abrir los archivos.
 - `scope.sh` es un shell script utilizado para generar previsualizaciones para varios tipos de archivos.
 - `commands.py` contiene varias implementaciones de funciones, escritas en Python, utilizadas para modificar el comportamiento de `ranger` e implementar tus propios comandos.
