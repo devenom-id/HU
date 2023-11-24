@@ -124,7 +124,7 @@ Se puede reemplazar scope.sh por un script en otros lenguajes o binarios nuestro
 ### Previsualizar imágenes
 Como ultima sección, veremos como podemos previsualizar imágenes desde ranger. Sí, se pueden ver imágenes en ranger, aunque solo está disponible para algunas terminales, en el caso de este blog, se usó Kitty.
 
-![images preview](media/c85.jpg)
+![images preview](media/c101.jpg)
 
 Ranger admite previsualizaciones fiables en algunas terminales como `urxvt`,`iTerm2`,`Kitty` o `Terminology`. Para habilitarlo, dirígete a tu archivo `rc.conf` y añade las siguientes líneas:
 
