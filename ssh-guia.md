@@ -4,16 +4,16 @@
 <br>
 ## Índice
 
-- Introducción
-- Crear un servidor SSH en GNU/Linux
-- Crear un servidor SSH en Android
-- Crear un servidor SSH en Windows
-- Conectarse a SSH desde GNU/Linux
-- Conectarse a SSH desde Android
-- Conectarse a un server hecho en Android
-- Conectarse a SSH desde Windows
-- Conectarse a un server hecho en Windows
-- Subir o Descargar archivos mediante SSH
+- [Introducción](#introducción)
+- [Crear un servidor SSH en GNU/Linux](#crear-un-servidor-ssh-en-gnulinux)
+- [Crear un servidor SSH en Android](#crear-un-servidor-ssh-en-android)
+- [Crear un servidor SSH en Windows](#crear-un-servidor-ssh-en-windows)
+- [Conectarse a SSH desde GNU/Linux](#conectarse-a-ssh-desde-gnulinux)
+- [Conectarse a SSH desde Android](#conectarse-a-ssh-desde-android)
+- [Conectarse a un server hecho en Android](#conectarse-a-un-server-hecho-en-android)
+- [Conectarse a SSH desde Windows](#conectarse-a-ssh-desde-windows)
+- [Conectarse a un server hecho en Windows](#conectarse-a-un-server-hecho-en-windows)
+- [Subir o Descargar archivos mediante SSH](#subir-o-descargar-archivos-mediante-ssh)
 
 ## Introducción
 
@@ -130,7 +130,7 @@ Un dato más es que **JuiceSSH** es bastante personalizable. El link para descar
 
 ## Conectarse a un Server hecho en Android
 
-Para crear un server en Android revisen la sección de [Crear un server en android](IMG) de este mismo blog.
+Para crear un server en Android revisen la sección de [Crear un server en android](#crear-un-servidor-ssh-en-android) de este mismo blog.
 
 Para conectarnos a un server hecho en Android con los pasos de este blog tendremos que usar el nombre de usuario que creamos, como mostré en las fotos, el mío es 'darth'
 
@@ -140,7 +140,7 @@ Desde un emulador de terminal, en mi caso sería `ssh darth@192.168.0.55 -p 2222
 
 ## Conectarse a SSH desde Windows
 
-Como vimos en la sección [Crear un servidor SSH en Windows](IMG), deberemos activar las características opcionales de **OpenSSH** (tutorial en la sección de [Crear un servidor SSH en Windows](IMG)). Una vez lo hayamos hecho probablemente necesitemos reiniciar y luego el comando `ssh` estará disponible en el cmd.
+Como vimos en la sección [Crear un servidor SSH en Windows](#crear-un-servidor-ssh-en-windows), deberemos activar las características opcionales de **OpenSSH** (tutorial en la sección de [Crear un servidor SSH en Windows](#crear-un-servidor-ssh-en-windows)). Una vez lo hayamos hecho probablemente necesitemos reiniciar y luego el comando `ssh` estará disponible en el cmd.
 
 Para conectarnos a SSH desde Windows podemos usar la terminal o mejor conocida como cmd (símbolo del sistema), o se puede usar el cliente *Putty* que ofrece una interfaz gráfica. La diferencia entre putty y el cmd en cuanto a calidad es ninguna, pero Putty es más sencillo por el simple hecho de usar interfaz gráfica.
 
@@ -151,14 +151,14 @@ Entran al link y van hacia donde dice *"MSI (Windows installer)"*, ahí verán d
 ![img](media/c100.jpg)
 
 Para los que quieran usar el cmd los pasos son los mismos que los descritos en la sección '
-[Conectarse a SSH desde Linux](IMG) del blog. Si por alguna razón no pueden conectarse mediante `ssh user@hostname`, recuerden especificar el puerto de la siguiente forma:
+[Conectarse a SSH desde Linux](#conectarse-a-ssh-desde-gnulinux) del blog. Si por alguna razón no pueden conectarse mediante `ssh user@hostname`, recuerden especificar el puerto de la siguiente forma:
 ```
 ssh user@hostname -p port #(reemplazan port por el puerto del server).
 ```
 
 ## Conectarse a un Server hecho en Windows
 
-Para conectarse a un server hecho en Windows deben utilizar el nombre de usuario con el que se haya iniciado sesión en windows y la contraseña del mismo, no el pin, la contraseña. Más específicamente la contraseña de la cuenta de outlook que hayan vinculado con Windows. Teniendo eso en cuenta, pueden seguir los mismos pasos que en la sección [Conectarse a SSH desde Linux](IMG) de este blog.
+Para conectarse a un server hecho en Windows deben utilizar el nombre de usuario con el que se haya iniciado sesión en windows y la contraseña del mismo, no el pin, la contraseña. Más específicamente la contraseña de la cuenta de outlook que hayan vinculado con Windows. Teniendo eso en cuenta, pueden seguir los mismos pasos que en la sección [Conectarse a SSH desde Linux](#conectarse-a-ssh-desde-gnulinux) de este blog.
 
 ## Subir o Descargar archivos mediante SSH
 
