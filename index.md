@@ -47,6 +47,7 @@ Entre los articulos que se encuentran aquí, por el momento la mayoría fueron r
 - [Elinks - Google desde la terminal](elinks.md)
 - [Ver Imagenes y videos en la TTY](mediatty.html)
 - [Instalar y usar tmux](tmux.md)
+- [Ranger - Administrar archivos desde la terminal](ranger.html)
 
 ## Hardware
 - [eGPU ¿Que son realmente?](eGPU-¿Que-son-realmente%3F.html)
