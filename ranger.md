@@ -17,15 +17,30 @@ Además de esto cuenta con `rifle` un poderoso lanzador de archivos, cuyo punto 
 
 Aquí podrán encontrar varias formas de instalarlo dependiendo de su distribución:
 
-**Arch Linux:** `sudo pacman -Sy ranger`
+**Arch Linux:**
+```
+sudo pacman -Sy ranger
+```
 
-**Debian / Ubuntu:** `sudo apt install ranger`
+**Debian / Ubuntu:** 
+```
+sudo apt install ranger
+```
 
-**Fedora:** `sudo dnf install ranger`
+**Fedora:** 
+```
+sudo dnf install ranger
+```
 
-**Gentoo:** `sudo emerge -U app-misc/ranger`
+**Gentoo:** 
+```
+sudo emerge -U app-misc/ranger
+```
 
-**PyPI:** `pip install ranger-fm`
+**PyPI:** 
+```
+pip install ranger-fm
+```
 
 Si quieres instalarlo manualmente clonando el repositorio, puedes revisar el proceso [aquí](https://github.com/ranger/ranger#installing)
 
@@ -33,7 +48,7 @@ Si quieres instalarlo manualmente clonando el repositorio, puedes revisar el pro
 
 La ventana principal muestra de manera predeterminada tres columnas (columnas de Miller):
 
-![Columnas en ranger](media/c.jpg)
+![Columnas en ranger](media/c83.jpg)
 
 - La columna de la izquierda muestra el directorio principal, con el directorio actual resaltado.
 - La columna central muestra el directorio actual.
@@ -51,6 +66,7 @@ Como mencione anteriormente podemos usar las teclas de movmimiento de Vim o las 
   h   l  --- izquierda o regresar / derecha o entrar
     j    --- abajo
 ```
+
 La tecla `l` sirve para entrar a directorios, para ejecutar programas, abrir imagenes, etc.
 
 Se puede usar `i` para inspeccionar un archivo, por lo que se pondra en pantalla completa, nos podremos desplazar por el y podemos volver a presionar `i` para salir de la inspección.
@@ -67,7 +83,21 @@ Las sugerencias se muestran cada vez que al presionar una tecla hay multiples ac
 `.` para filter_stack.<br>
 `z` para cmabiar ajustes, `u` para deshacer.<br>
 `M` para linemode.<br>
-`+|-|=` para establecer los derechos de acceso a archivos.<br>
+`+,-,=` para establecer los derechos de acceso a archivos.<br>
 
 Las sugerencias consisten en teclas del lado izquierdo y su comando correspondiente de lado derecho
+
+![Atajos y Sugerencias](media/c84.jpg)
+
+## Configuración básica
+
+Ranger usa 4 archivos de configuración principales:
+
+- `rc.conf` es utilizando para varias opciones de configruación y atajos de teclado a funciones (más adelante veremos como habilitar la previsualización de imagenes).
+- `rifle.conf` decide qué programa se utiliza para abrir los archivos.
+- `scope.sh` es un shell script utilizado para generar previsualizaciones para varios tipos de archivos.
+- `commands.py` contine varias implementaciones de funciones, escritas en Python, utilizadas para modificar el comportamiento de `ranger` e implementar tus propios comandos.
+
+
+
 
