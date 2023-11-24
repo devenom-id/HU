@@ -33,6 +33,10 @@ Entre los articulos que se encuentran aquí, por el momento la mayoría fueron r
 - [¿Cómo programaban en los teletipos?](unix6.html)
 - [Ver Imagenes y videos en la TTY](unix7.html)
 
+## Redes
+- [Modelo OSI](Modelo-OSI.html)
+- [SSH - Guía completa](ssh-guia.html)
+
 ## Vim
 - [Modos del editor, escribir, abrir y guardar](vim1.html)
 
