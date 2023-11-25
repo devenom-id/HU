@@ -17,12 +17,14 @@ Entre los articulos que se encuentran aquí, por el momento la mayoría fueron r
 - [Comillas dobles y simples](term6.html)
 - [Variables de entorno](term7.html)
 - [Prompting](term8.html)
+- [Definición de terminal y qué es un comando](term9.html)
 
 ## GNU & Linux
 - [Linux, ¿Qué es? ¿Por qué es tan importante saberlo?](linux1.html)
 - [Diferencia entre Linux y GNU/Linux](linux2.html)
 - [Cuál Distro de GNU/Linux elegir y por qué (Old)](linux3.html)
 - [GNU/Linux - Introducción](linux4.html)
+- [Todas Las Formas De Obtener GNU/Linux](todas-las-formas-de-obtener-gnulinux.html)
 
 ## Unix
 - [Introducción](unix1.html)
