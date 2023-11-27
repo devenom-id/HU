@@ -35,6 +35,19 @@ Entre los articulos que se encuentran aquí, por el momento la mayoría fueron r
 - [Códigos de escape ANSI](unix5.html)
 - [¿Cómo programaban en los teletipos?](unix6.html)
 - [Ver Imagenes y videos en la TTY](unix7.html)
+- [Habilitar el mouse en la TTY](unix8.html)
+
+## Introducción a la programación
+- [Por dónde y cómo empezar](guiaintro.html)
+- [¿Cómo programar en móvil?](mobileprogramming.html)
+- [¿Cómo crear una página web?](webprogramming.html)
+
+## Python (old)
+- [Operaciones de entrada/salida](python1.html)
+- [Descargar e instalar una IDE (Pycharm)](python2.html)
+- [Variables y tipos de datos](python3.html)
+- [Comentarios y Docstrings](python4.html)
+- [Operadores](python5.html)
 
 ## Redes
 - [Modelo OSI](Modelo-OSI.html)
@@ -56,18 +69,11 @@ Entre los articulos que se encuentran aquí, por el momento la mayoría fueron r
 ## Hardware
 - [eGPU ¿Que son realmente?](eGPU-¿Que-son-realmente%3F.html)
 
+## OpenSUSE
+- [Zypper - Deshabilitar auto-refresh al instalar paquetes](zypper-disable-autorefresh.html)
+
 ## Sin clasificar
 - [Ray Tracing ¿Qué es?](Ray-Tracing-¿Que-es%3F.html)
 - [WSL en Windows 10 (Old)](wsl1.html)
-- [Habilitar el mouse en la TTY](mousetty.html)
 - [¿Es la Deep Web tan peligrosa como dicen?](es-la-deep-web-peligrosa.html)
-- [Zypper - Deshabilitar auto-refresh al instalar paquetes](zypper-disable-autorefresh.html)
 - [Malware - definicion y tipos](tiposdemalware.html)
-- [¿Cómo programar en móvil?](mobileprogramming.html)
-- [Por dónde y cómo empezar](guiaintro.html)
-- [¿Cómo crear una página web?](webprogramming.html)
-- [Python de 0 a 1000 #1](python1.html)
-- [Python de 0 a 1000 #2](python2.html)
-- [Python de 0 a 1000 #3](python3.html)
-- [Python de 0 a 1000 #4](python4.html)
-- [Python de 0 a 1000 #5](python5.html)
