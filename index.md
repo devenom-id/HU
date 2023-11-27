@@ -25,6 +25,7 @@ Entre los articulos que se encuentran aquí, por el momento la mayoría fueron r
 - [Cuál Distro de GNU/Linux elegir y por qué (Old)](linux3.html)
 - [GNU/Linux - Introducción](linux4.html)
 - [Todas Las Formas De Obtener GNU/Linux](todas-las-formas-de-obtener-gnulinux.html)
+- [Definición de Linux y GNU/Linux in a nutshell](linux5.html)
 
 ## Unix
 - [Introducción](unix1.html)
@@ -47,9 +48,9 @@ Entre los articulos que se encuentran aquí, por el momento la mayoría fueron r
 - [Opera GX](Opera-GX.html)
 - [MIUI 12](MIUI-12.html)
 - [Cmus (C Music Player)](cmus.md)
-- [Elinks - Google desde la terminal](elinks.md)
+- [Elinks - Google desde la terminal](elinks.html)
 - [Ver Imagenes y videos en la TTY](mediatty.html)
-- [Instalar y usar tmux](tmux.md)
+- [Instalar y usar tmux](tmux.html)
 - [Ranger - Administra tus archivos desde la terminal](ranger.html)
 
 ## Hardware
@@ -58,3 +59,15 @@ Entre los articulos que se encuentran aquí, por el momento la mayoría fueron r
 ## Sin clasificar
 - [Ray Tracing ¿Qué es?](Ray-Tracing-¿Que-es%3F.html)
 - [WSL en Windows 10 (Old)](wsl1.html)
+- [Habilitar el mouse en la TTY](mousetty.html)
+- [¿Es la Deep Web tan peligrosa como dicen?](es-la-deep-web-peligrosa.html)
+- [Zypper - Deshabilitar auto-refresh al instalar paquetes](zypper-disable-autorefresh.html)
+- [Malware - definicion y tipos](tiposdemalware.html)
+- [¿Cómo programar en móvil?](mobileprogramming.html)
+- [Por dónde y cómo empezar](guiaintro.html)
+- [¿Cómo crear una página web?](webprogramming.html)
+- [Python de 0 a 1000 #1](python1.html)
+- [Python de 0 a 1000 #2](python2.html)
+- [Python de 0 a 1000 #3](python3.html)
+- [Python de 0 a 1000 #4](python4.html)
+- [Python de 0 a 1000 #5](python5.html)
