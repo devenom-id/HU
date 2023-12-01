@@ -55,7 +55,7 @@ Entre los articulos que se encuentran aquí, por el momento la mayoría fueron r
 
 ## Vim
 - [Modos del editor, escribir, abrir y guardar](vim1.html)
-- [Plug - Expandiendo Vim](plug_vim.html)
+- [Vim Plug - Expandiendo Vim](plug_vim.html)
 
 ## Software
 - [Opera GX](Opera-GX.html)

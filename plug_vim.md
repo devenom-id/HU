@@ -1,4 +1,4 @@
-# Plug - Expandiendo Vim.
+# Vim Plug - Expandiendo Vim.
 <b>By: <a href="https://github.com/msh-dv" target="_blank">Tony</a> - 24/11/2023</b>
 <br>
 <br>
@@ -9,7 +9,7 @@ Vim es un editor de texto que destaca por su eficiencia y velocidad, proporciona
 
 Pero a menudo nos encontramos con ciertas funcionalidades que nos gustaría que tuviera o añadirle características de otros editores de texto más populares. Es aquí donde los plugins nos ayudan a expandir nuestra experiencia al usar Vim, ya que nos dejan añadir características bastante potentes que nos ayudarán a mejorar nuestra experiencia a la hora de usarlo. 
 
-A continuación veremos como instalar el gestor Plug, como configurar Vim y Neovim para usarlo y como agregar nuestros primeros plugins.
+A continuación veremos como instalar el gestor Vim Plug, como configurar Vim y Neovim para usarlo y como agregar nuestros primeros plugins.
 
 ![Vim-plug](media/c103.jpg)
 
@@ -17,7 +17,7 @@ A continuación veremos como instalar el gestor Plug, como configurar Vim y Neov
 
 ## Instalación
 
-Las siguientes instrucciones lo que harán es descargar `plug.vim` en el directorio `autoload/`, la configuración de Plug es similar en vim y neovim.
+Las siguientes instrucciones lo que harán es descargar `plug.vim` en el directorio `autoload/`, la configuración de Vim Plug es similar en vim y neovim.
 
 Puedes copiar el siguiente comando, para tu editor:
 
@@ -76,7 +76,7 @@ call plug#end()
 Una vez añadida la lista, podemos empezar a agregar plugins.
 Podemos agregar tantos plugins queramos, solo hay que tener cuidado de que no interfieran los unos con los otros, puedes agregar plugins de terminales, pestañas, temas, etc.
 
-Plug cuenta con varios comandos bastante útiles, entre los cuales están:
+Vim Plug cuenta con varios comandos bastante útiles, entre los cuales están:
 
 + `PlugInstall`  Instala plugins.
 + `PlugUpdate`   Instala o actualiza plugins a su última versión.
