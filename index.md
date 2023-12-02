@@ -48,6 +48,11 @@ Entre los articulos que se encuentran aquí, por el momento la mayoría fueron r
 - [Variables y tipos de datos](python3.html)
 - [Comentarios y Docstrings](python4.html)
 - [Operadores](python5.html)
+- [Flags y formateo de strings](python6.html)
+- [if-elif-else](python7.html)
+- [Conversión de datos](python8.html)
+- [while - break y continue](python9.html)
+- [Estructuras de datos](python10.html)
 
 ## Redes
 - [Modelo OSI](Modelo-OSI.html)
