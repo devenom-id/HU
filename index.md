@@ -8,24 +8,13 @@ Este es el sitio oficial de HU. Aquí se publican articulos sobre programación,
 <br>
 Entre los articulos que se encuentran aquí, por el momento la mayoría fueron resubidos de la vieja comunidad de HU en Amino. En cuanto a las guías en el índice, las guías antiguas rescatadas de Amino o los articulos cuya información haya quedado desactualizada por el tiempo serán distinguidos con la palabra *'Old'*.
 
-## Guía de uso de la terminal en GNU/Linux (Old)
-- [Operaciones de entrada y salida](term1.html)
-- [Gestión de archivos](term2.html)
-- [Gestión de paquetes](term3.html)
-- [Edición de texto](term4.html)
-- [Alias y variables](term5.html)
-- [Comillas dobles y simples](term6.html)
-- [Variables de entorno](term7.html)
-- [Prompting](term8.html)
-- [Definición de terminal y qué es un comando](term9.html)
-
 ## GNU & Linux
 - [Linux, ¿Qué es? ¿Por qué es tan importante saberlo?](linux1.html)
 - [Diferencia entre Linux y GNU/Linux](linux2.html)
-- [Cuál Distro de GNU/Linux elegir y por qué (Old)](linux3.html)
 - [GNU/Linux - Introducción](linux4.html)
 - [Todas Las Formas De Obtener GNU/Linux](todas-las-formas-de-obtener-gnulinux.html)
 - [Definición de Linux y GNU/Linux in a nutshell](linux5.html)
+- [Cuál Distro de GNU/Linux elegir y por qué (Old)](linux3.html)
 
 ## Unix
 - [Introducción](unix1.html)
@@ -41,18 +30,6 @@ Entre los articulos que se encuentran aquí, por el momento la mayoría fueron r
 - [Por dónde y cómo empezar](guiaintro.html)
 - [¿Cómo programar en móvil?](mobileprogramming.html)
 - [¿Cómo crear una página web?](webprogramming.html)
-
-## Python (old)
-- [Operaciones de entrada/salida](python1.html)
-- [Descargar e instalar una IDE (Pycharm)](python2.html)
-- [Variables y tipos de datos](python3.html)
-- [Comentarios y Docstrings](python4.html)
-- [Operadores](python5.html)
-- [Flags y formateo de strings](python6.html)
-- [if-elif-else](python7.html)
-- [Conversión de datos](python8.html)
-- [while - break y continue](python9.html)
-- [Estructuras de datos](python10.html)
 
 ## Redes
 - [Modelo OSI](Modelo-OSI.html)
@@ -77,11 +54,34 @@ Entre los articulos que se encuentran aquí, por el momento la mayoría fueron r
 ## OpenSUSE
 - [Zypper - Deshabilitar auto-refresh al instalar paquetes](zypper-disable-autorefresh.html)
 
+## Guía de uso de la terminal en GNU/Linux (Old)
+- [Operaciones de entrada y salida](term1.html)
+- [Gestión de archivos](term2.html)
+- [Gestión de paquetes](term3.html)
+- [Edición de texto](term4.html)
+- [Alias y variables](term5.html)
+- [Comillas dobles y simples](term6.html)
+- [Variables de entorno](term7.html)
+- [Prompting](term8.html)
+- [Definición de terminal y qué es un comando](term9.html)
+
+## Python (Old)
+- [Operaciones de entrada/salida](python1.html)
+- [Descargar e instalar una IDE (Pycharm)](python2.html)
+- [Variables y tipos de datos](python3.html)
+- [Comentarios y Docstrings](python4.html)
+- [Operadores](python5.html)
+- [Flags y formateo de strings](python6.html)
+- [if-elif-else](python7.html)
+- [Conversión de datos](python8.html)
+- [while - break y continue](python9.html)
+- [Estructuras de datos](python10.html)
+
 ## Sin clasificar
 - [Ray Tracing ¿Qué es?](Ray-Tracing-¿Que-es%3F.html)
-- [WSL en Windows 10 (Old)](wsl1.html)
 - [¿Es la Deep Web tan peligrosa como dicen?](es-la-deep-web-peligrosa.html)
 - [Malware - definicion y tipos](tiposdemalware.html)
+- [WSL en Windows 10 (Old)](wsl1.html)
 
 <hr>
 
