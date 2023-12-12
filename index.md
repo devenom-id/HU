@@ -76,6 +76,12 @@ Entre los articulos que se encuentran aquí, por el momento la mayoría fueron r
 - [Conversión de datos](python8.html)
 - [while - break y continue](python9.html)
 - [Estructuras de datos](python10.html)
+- [Estructuras de datos - Métodos](python11.html)
+- [Bucle for - range()](python12.html)
+- [Excepciones - Sentencia try-raise](python13.html)
+- [Funciones](python14.html)
+- [Scopes - Sentencia global](python15.html)
+- [Lambda](python16.html)
 
 ## Sin clasificar
 - [Ray Tracing ¿Qué es?](Ray-Tracing-¿Que-es%3F.html)
