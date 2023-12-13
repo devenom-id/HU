@@ -8,13 +8,7 @@ Este es el sitio oficial de HU. Aquí se publican articulos sobre programación,
 <br>
 Entre los articulos que se encuentran aquí, por el momento la mayoría fueron resubidos de la vieja comunidad de HU en Amino. En cuanto a las guías en el índice, las guías antiguas rescatadas de Amino o los articulos cuya información haya quedado desactualizada por el tiempo serán distinguidos con la palabra *'Old'*.
 
-<a href="hu-platform.html">
-<div style="border: 5px solid #ffcc00; border-radius: 15px; margin-bottom: 15px">
-    <div style="border: 5px solid #252525; border-radius: 10px; padding: 10px">
-        <h3>Echa un vistazo a los últimos datos sobre la HU Platform -></h3>
-    </div>
-</div>
-</a>
+<a href="hu-platform.html"><div style="border: 5px solid #ffcc00; border-radius: 15px; margin-bottom: 15px"><div style="border: 5px solid #252525; border-radius: 10px; padding: 10px"><h3>Echa un vistazo a los últimos datos sobre la HU Platform -></h3></div></div></a>
 
 ## GNU & Linux
 - [Linux, ¿Qué es? ¿Por qué es tan importante saberlo?](linux1.html)
