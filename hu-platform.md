@@ -7,7 +7,7 @@ La plataforma de HU será una aplicación que estará disponible en la mayoría 
 **Estado**: Recibiendo ideas y definiendo el diseño.
 
 ### Tecnologías
-**Front-end**: React Native
+**Front-end**: React Native<br>
 **Back-end**: Laravel
 
 ### Personalización
