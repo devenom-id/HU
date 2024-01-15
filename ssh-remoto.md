@@ -8,7 +8,7 @@ Esta entrada es un complemento de la guía [SSH](ssh-guia.html) en donde veremos
 a un servidor SSH dentro de una red privada desde cualquier otro dispositivo usando 
 [ngrok](https://ngrok.com/docs/) para hacer un TCP Endpoint.
 
-<center>*Para esto vamos a necesitar de un servidor SSH activo (en nuestra máquina host), tener configurada nuestra cuenta de ngrok y tener listo nuestro cliente SSH en el dispositivo que queramos usar para conectarnos.*</center>
+*Para esto vamos a necesitar de un servidor SSH activo (en nuestra máquina host), tener configurada nuestra cuenta de ngrok y tener listo nuestro cliente SSH en el dispositivo que queramos usar para conectarnos.*
 
 ## Del lado del servidor
 
