@@ -8,12 +8,11 @@ Esta entrada es un complemento de la guía [SSH](ssh-guia.html) en donde veremos
 a un servidor SSH dentro de una red privada desde cualquier otro dispositivo usando 
 [ngrok](https://ngrok.com/docs/) para hacer un TCP Endpoint.
 
-*Para esto vamos a necesitar de un servidor SSH activo (en nuestra máquina host), tener configurada nuestra cuenta de ngrok y
-tener listo nuestro cliente SSH en el dispositivo que queramos usar para conectarnos.*
+<center>*Para esto vamos a necesitar de un servidor SSH activo (en nuestra máquina host), tener configurada nuestra cuenta de ngrok y tener listo nuestro cliente SSH en el dispositivo que queramos usar para conectarnos.*</center>
 
 ## Del lado del servidor
 
-Primero deberíamos instalar OpenSSH y ngrok con el siguiente comando:
+Primero tenemos que instalar OpenSSH y ngrok con el siguiente comando:
 ```
 sudo pacman -S openssh ngrok
 ```
@@ -24,7 +23,7 @@ Suponiendo que ya tengamos instalados nuestros programas, vamos a activar nuestr
 ```
 sudo systemctl start sshd
 ```
-Por defecto en el servidor está configurado el puerto 22 en escucha, pero pueden cambiarlo en el archivo `/etc/ssh/sshd_config`.
+Por defecto en el servidor está configurado el puerto 22 en escucha, pero pueden cambiarlo al que gustenen el archivo `/etc/ssh/sshd_config`.
 
 Ahora vamos a usar ngrok para nuestro TCP Endpoint:
 
